@@ -524,6 +524,11 @@ export default function CombatAssistant() {
       </Typography>
     ))}
   </Paper>
+
+  <footer style={{ marginTop: '2rem', textAlign: 'center', fontSize: '0.9rem', color: '#999' }}>
+    <p>❤️ If you enjoy this tool, you can support my work with crypto donations 🙏 :</p>
+    <p>ETH: <code>0xa403c3cbe7f703a1ed8c8ae20dfb0efc7dc5a6dc</code></p>
+  </footer>
 </Container>
 );
 }
