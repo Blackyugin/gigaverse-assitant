@@ -43,7 +43,7 @@ function MainApp() {
       <Box sx={{ bgcolor: '#121212', minHeight: '100vh', color: '#fff' }}>
         {/* Bannière */}
         <Box component="img"
-          src="/src/assets/gigaverse-banner.gif"
+          src="/gigaverse-banner.gif"
           alt="Gigaverse Banner"
           sx={{ width: '100%', maxHeight: 450, objectFit: 'cover' }}
         />
